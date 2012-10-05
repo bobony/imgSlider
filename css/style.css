@@ -3,10 +3,18 @@
 body {
 	background:url(../images/bg.gif);
 }
-#main {
-	margin:0 auto;
-	
-}
+
+footer {
+	text-align:center;
+	margin-top:50px;
+	}
+footer a {
+	color:#0070b1;
+	}
+footer a:hover{
+	color:#ac2b10;
+	}
+
 .slider_container {
 	width:700px;
 	height:350px;
